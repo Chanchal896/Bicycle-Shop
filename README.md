@@ -1,3 +1,4 @@
+This application is made using java, Java server pages and MYSQL. 3 tier architecture is followed by making various DAO classes.
 To run this program you need to install apache server and establish the necessary connections between MYSQL And the Java Application. Since this is a 3tier application, You can easily configure the SQL seeting using the DBConnection.java in DAO folder. Once established start the program from the login.java or signup.java file to begin the program.
 
 Login Page:
